@@ -5,7 +5,7 @@ import { Container } from "react-bootstrap";
 function GalleryPage () {
     return(
         <Container>
-            <p>Gallery Page</p>
+            <h2>Gallery Page</h2>
         </Container>
     );
 }
